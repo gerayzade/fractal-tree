@@ -26,7 +26,7 @@ namespace FractalTree
             // instance of a tree object (x, y, length, k1, k2, k3, m2, m3, a, b, c, alpha, leafBrush)
         }
 
-        public Boolean treeWasDrawn = false; // boolean - if the tree was been drawn
+        public Boolean treeWasDrawn = false; // boolean - if the tree was drawn
         public Boolean forestWasDrawn = false; // boolean - if the forest was drawn
 
         public static int depth_num = 8; // default value of recursion depth
